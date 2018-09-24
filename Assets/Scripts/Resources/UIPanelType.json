@@ -1,0 +1,39 @@
+{
+	"_UIPanelInfos":
+	[
+		{
+			"_UIPanelName":"MainMenuPanel",
+			"_UIPanelPath":"UIPanel/MainMenuPanel"
+		},
+
+		{
+			"_UIPanelName":"KnapsackPanel",
+			"_UIPanelPath":"UIPanel/KnapsackPanel"
+		},
+
+		{
+			"_UIPanelName":"ShopPanel",
+			"_UIPanelPath":"UIPanel/ShopPanel"
+		},
+
+		{
+			"_UIPanelName":"SkillPanel",
+			"_UIPanelPath":"UIPanel/SkillPanel"
+		},
+
+		{
+			"_UIPanelName":"SystemPanel",
+			"_UIPanelPath":"UIPanel/SystemPanel"
+		},
+
+		{
+			"_UIPanelName":"TaskPanel",
+			"_UIPanelPath":"UIPanel/TaskPanel"
+		},
+		
+		{
+			"_UIPanelName":"ItemMessagePanel",
+			"_UIPanelPath":"UIPanel/ItemMessagePanel"
+		}
+	]
+}
